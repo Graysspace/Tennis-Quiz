@@ -1,0 +1,16 @@
+F:\C#\Tennis-Quiz\bin\Debug\net5.0\Tennis-Quiz.exe
+F:\C#\Tennis-Quiz\bin\Debug\net5.0\Tennis-Quiz.deps.json
+F:\C#\Tennis-Quiz\bin\Debug\net5.0\Tennis-Quiz.runtimeconfig.json
+F:\C#\Tennis-Quiz\bin\Debug\net5.0\Tennis-Quiz.runtimeconfig.dev.json
+F:\C#\Tennis-Quiz\bin\Debug\net5.0\Tennis-Quiz.dll
+F:\C#\Tennis-Quiz\bin\Debug\net5.0\ref\Tennis-Quiz.dll
+F:\C#\Tennis-Quiz\bin\Debug\net5.0\Tennis-Quiz.pdb
+F:\C#\Tennis-Quiz\obj\Debug\net5.0\Tennis-Quiz.csproj.AssemblyReference.cache
+F:\C#\Tennis-Quiz\obj\Debug\net5.0\Tennis-Quiz.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\Tennis-Quiz\obj\Debug\net5.0\Tennis-Quiz.AssemblyInfoInputs.cache
+F:\C#\Tennis-Quiz\obj\Debug\net5.0\Tennis-Quiz.AssemblyInfo.cs
+F:\C#\Tennis-Quiz\obj\Debug\net5.0\Tennis-Quiz.csproj.CoreCompileInputs.cache
+F:\C#\Tennis-Quiz\obj\Debug\net5.0\Tennis-Quiz.dll
+F:\C#\Tennis-Quiz\obj\Debug\net5.0\ref\Tennis-Quiz.dll
+F:\C#\Tennis-Quiz\obj\Debug\net5.0\Tennis-Quiz.pdb
+F:\C#\Tennis-Quiz\obj\Debug\net5.0\Tennis-Quiz.genruntimeconfig.cache
